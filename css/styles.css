@@ -1,0 +1,53 @@
+body {
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+  background-color: lightgray;
+}
+body h1 {
+	text-align: center;
+}
+#header-nav {
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+}
+#nav-list {
+  margin-top: 20px;
+}
+#nav-list a {
+  color: #000000;
+  text-align: right;
+}
+.dropdown-menu {
+	text-align: center;
+}
+
+.container-fluid {
+	background-color: aqua;
+}
+.navbar brand {
+	padding-top: 25px; 
+
+}
+.navbar brand h1 {
+	font-size: 2em;
+	color: 	black ;
+	font-weight: bold;
+	margin-top: 0;
+	margin-bottom: 0;
+	font-family: 'Montserrat', sans-serif;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+.centered {
+	text-align: center;
+}
+
+.paddingof {
+	padding: 0px 25px 0px 25px;
+}
+
+.jumbotron {
+	background-color: aqua;
+}
